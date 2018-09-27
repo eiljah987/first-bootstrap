@@ -1,0 +1,24 @@
+.jumbotron{
+    background-color: skyblue;
+    color: gray;
+    height: 100px;
+   
+}
+
+
+  
+  .col-sm-12{
+border: solid;
+border-color: skyblue;
+color: grey;
+      
+  }
+  
+  .image img{
+  
+    border-radius: 50%;
+    transform: rotate(90deg);
+  }  
+ .bodycontact{
+     height: 1000px;
+ }
